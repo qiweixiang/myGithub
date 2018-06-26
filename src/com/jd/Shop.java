@@ -8,5 +8,7 @@ public class Shop {
 		System.out.println("dev01");
 		System.out.println("master02");
 		System.out.println("dev02");
+		System.out.println("master03");
+		System.out.println("master04");
 	}
 }
