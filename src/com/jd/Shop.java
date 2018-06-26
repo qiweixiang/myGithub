@@ -6,5 +6,6 @@ public class Shop {
 		System.out.println("ÄãºÃ");
 		System.out.println("master");
 		System.out.println("dev01");
+		System.out.println("dev02");
 	}
 }
