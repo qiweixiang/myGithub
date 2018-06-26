@@ -16,5 +16,6 @@ public class Shop {
 		System.out.println("dev_03");
 		
 		System.out.println("dev_01");
+		System.out.println();
 	}
 }
