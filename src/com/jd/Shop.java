@@ -18,5 +18,6 @@ public class Shop {
 		System.out.println("dev_01");
 		System.out.println();
 		System.out.println("Èöµ©ìªìª´ó");
+		System.out.println("sad");
 	}
 }
